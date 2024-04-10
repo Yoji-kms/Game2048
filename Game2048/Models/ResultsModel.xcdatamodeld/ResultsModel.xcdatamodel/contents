@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22757" systemVersion="23F5049f" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="ResultEntity" representedClassName="ResultEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="infinite" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="moves" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="score" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="variant" optional="YES" attributeType="String"/>
+    </entity>
+</model>
